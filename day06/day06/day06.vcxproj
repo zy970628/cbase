@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01.指针的使用.c" />
+    <ClCompile Include="02.指针与数组.c" />
+    <ClCompile Include="03.指针减指针.c" />
+    <ClCompile Include="04.指针数组.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

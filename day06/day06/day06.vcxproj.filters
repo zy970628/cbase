@@ -18,5 +18,14 @@
     <ClCompile Include="01.指针的使用.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02.指针与数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03.指针减指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.指针数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

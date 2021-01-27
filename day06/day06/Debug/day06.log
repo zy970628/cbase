@@ -1,4 +1,4 @@
-﻿  01.指针的使用.c
-E:\dev\Cbase\day06\day06\01.指针的使用.c(20,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
-E:\dev\Cbase\day06\day06\01.指针的使用.c(13,1): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+﻿  04.指针数组.c
+E:\dev\Cbase\day06\day06\04.指针数组.c(22,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+E:\dev\Cbase\day06\day06\04.指针数组.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
   day06.vcxproj -> E:\dev\Cbase\day06\Debug\day06.exe

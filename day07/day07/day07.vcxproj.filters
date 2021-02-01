@@ -15,7 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="03.字符串比较.cpp">
+    <ClCompile Include="03.字符串比较.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.字符串拷贝.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05.字符串中找字符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06.字符串去空格.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07.带参数的main函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08.返回字符串的次数.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

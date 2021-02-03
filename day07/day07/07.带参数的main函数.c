@@ -6,7 +6,7 @@
 #include <time.h>
 #include <Windows.h>
 
-int main(int argc, char* argv[])
+int main0701(int argc, char* argv[])
 {
 	for (size_t i = 0; i < argc; i++)
 	{

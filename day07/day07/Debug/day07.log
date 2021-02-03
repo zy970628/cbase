@@ -1,8 +1,4 @@
-﻿  06.字符串去空格.c
-E:\dev\Cbase\day07\day07\06.字符串去空格.c(27,15): warning C4047: “函数”:“char *”与“char *[100]”的间接级别不同
-E:\dev\Cbase\day07\day07\06.字符串去空格.c(27,12): warning C4024: “mysp”: 形参和实参 2 的类型不同
-E:\dev\Cbase\day07\day07\06.字符串去空格.c(28,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“char **”
-  07.带参数的main函数.c
-E:\dev\Cbase\day07\day07\07.带参数的main函数.c(11,23): warning C4018: “<”: 有符号/无符号不匹配
-  正在生成代码...
+﻿  08.返回字符串的次数.c
+E:\dev\Cbase\day07\day07\08.返回字符串的次数.c(40,26): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\dev\Cbase\day07\day07\08.返回字符串的次数.c(41,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
   day07.vcxproj -> E:\dev\Cbase\day07\Debug\day07.exe

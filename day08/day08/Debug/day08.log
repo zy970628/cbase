@@ -1,0 +1,6 @@
+﻿  02.学生成绩.c
+E:\dev\Cbase\day08\day08\02.学生成绩.c(13,37): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\dev\Cbase\day08\day08\02.学生成绩.c(14,37): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\dev\Cbase\day08\day08\02.学生成绩.c(15,37): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\dev\Cbase\day08\day08\02.学生成绩.c(12,1): warning C4047: “初始化”:“int **”与“int *”的间接级别不同
+  day08.vcxproj -> E:\dev\Cbase\day08\Debug\day08.exe

@@ -142,6 +142,8 @@
     <ClCompile Include="01结构体.c" />
     <ClCompile Include="02结构体和内存大小.c" />
     <ClCompile Include="03结构体数组.c" />
+    <ClCompile Include="04案例学生成绩.c" />
+    <ClCompile Include="05结构体成员为指针.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -144,6 +144,16 @@
     <ClCompile Include="03结构体数组.c" />
     <ClCompile Include="04案例学生成绩.c" />
     <ClCompile Include="05结构体成员为指针.c" />
+    <ClCompile Include="06.结构体指针.c" />
+    <ClCompile Include="07堆空间开辟结构体.c" />
+    <ClCompile Include="08结构体和函数.c" />
+    <ClCompile Include="09案例学生成绩整理.c" />
+    <ClCompile Include="10结构体嵌套结构体.c" />
+    <ClCompile Include="11结构体嵌套02.c" />
+    <ClCompile Include="12共用体.c" />
+    <ClCompile Include="13枚举.c" />
+    <ClCompile Include="14typedef的应用.c" />
+    <ClCompile Include="daz.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

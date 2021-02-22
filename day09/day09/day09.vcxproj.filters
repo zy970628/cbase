@@ -30,5 +30,35 @@
     <ClCompile Include="05结构体成员为指针.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06.结构体指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07堆空间开辟结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08结构体和函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09案例学生成绩整理.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10结构体嵌套结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11结构体嵌套02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12共用体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13枚举.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14typedef的应用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="daz.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

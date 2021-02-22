@@ -1,4 +1,11 @@
-﻿  04案例学生成绩.c
-E:\dev\Cbase\day09\day09\04案例学生成绩.c(32,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-E:\dev\Cbase\day09\day09\04案例学生成绩.c(33,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+﻿  11结构体嵌套02.c
+  12共用体.c
+E:\dev\Cbase\day09\day09\12共用体.c(28,13): warning C4305: “=”: 从“double”到“float”截断
+  13枚举.c
+  14typedef的应用.c
+E:\dev\Cbase\day09\day09\14typedef的应用.c(21,17): warning C4101: “stu”: 未引用的局部变量
+  daz.c
+E:\dev\Cbase\day09\day09\daz.c(41,27): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\dev\Cbase\day09\day09\daz.c(53,23): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
   day09.vcxproj -> E:\dev\Cbase\day09\Debug\day09.exe

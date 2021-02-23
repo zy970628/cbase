@@ -57,7 +57,7 @@
     <ClCompile Include="14typedef的应用.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="daz.c">
+    <ClCompile Include="15打字游戏.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

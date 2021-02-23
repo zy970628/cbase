@@ -1,0 +1,5 @@
+﻿  01文件使用.c
+  02文件写入.c
+E:\dev\Cbase\day10\day10\02文件写入.c(17,32): warning C4133: “函数”: 从“char [9]”到“FILE *”的类型不兼容
+  正在生成代码...
+  day10.vcxproj -> E:\dev\Cbase\day10\Debug\day10.exe

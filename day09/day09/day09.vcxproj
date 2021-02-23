@@ -153,7 +153,7 @@
     <ClCompile Include="12共用体.c" />
     <ClCompile Include="13枚举.c" />
     <ClCompile Include="14typedef的应用.c" />
-    <ClCompile Include="daz.c" />
+    <ClCompile Include="15打字游戏.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

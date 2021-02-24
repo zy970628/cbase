@@ -6,15 +6,34 @@
 #include <time.h>
 #include <Windows.h>
 
-int main(void)
+int main02(void)
 {
+	char* filename = "test.txt";
 	FILE* fp=NULL;
-	fp = fopen("test.txt","w");
+	char ch = 'A';
+	int ret;
+	fp = fopen("filename","w");
 
 	if (fp == NULL)
+	{
 		perror("fopen error");
+		return -1;
+	}
+		
 
-	int ren = fputc('A',"test.txt");
+	for (int i = 0; i < 26; i++)
+	{
+		ret = fputc(ch + i, fp);
+		if (fp == NULL)
+		{
+			perror("fopen error");
+			return -1;
+		}
+	}
+
+	printf("%d\n", ret);
+	
+
 	fclose(fp);
 
 	system("pause");

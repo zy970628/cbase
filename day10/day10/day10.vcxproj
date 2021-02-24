@@ -141,6 +141,12 @@
   <ItemGroup>
     <ClCompile Include="01文件使用.c" />
     <ClCompile Include="02文件写入.c" />
+    <ClCompile Include="03fgetc.c" />
+    <ClCompile Include="04feof函数.c" />
+    <ClCompile Include="05wq退出.c" />
+    <ClCompile Include="06文件的四则运算.c" />
+    <ClCompile Include="07四则运算随机生成.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

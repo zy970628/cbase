@@ -1,5 +1,4 @@
-﻿  01文件使用.c
-  02文件写入.c
-E:\dev\Cbase\day10\day10\02文件写入.c(17,32): warning C4133: “函数”: 从“char [9]”到“FILE *”的类型不兼容
-  正在生成代码...
+﻿  06文件的四则运算.c
+E:\dev\Cbase\day10\day10\06文件的四则运算.c(79,7): warning C4013: “rand1”未定义；假设外部返回 int
+E:\dev\Cbase\day10\day10\06文件的四则运算.c(19): warning C4715: “calc06”: 不是所有的控件路径都返回值
   day10.vcxproj -> E:\dev\Cbase\day10\Debug\day10.exe

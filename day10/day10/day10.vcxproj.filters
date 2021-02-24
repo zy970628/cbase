@@ -21,5 +21,23 @@
     <ClCompile Include="02文件写入.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03fgetc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04feof函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05wq退出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06文件的四则运算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07四则运算随机生成.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

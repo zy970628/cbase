@@ -24,5 +24,14 @@
     <ClCompile Include="03fwirte.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04大文件拷贝.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test随机生成文件.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05随机文件读写.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

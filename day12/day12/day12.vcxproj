@@ -142,6 +142,9 @@
     <ClCompile Include="01fscanf和fprintf.c" />
     <ClCompile Include="02文件排序.c" />
     <ClCompile Include="03fwirte.c" />
+    <ClCompile Include="04大文件拷贝.c" />
+    <ClCompile Include="05随机文件读写.c" />
+    <ClCompile Include="test随机生成文件.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

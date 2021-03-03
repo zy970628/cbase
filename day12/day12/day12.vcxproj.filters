@@ -33,5 +33,11 @@
     <ClCompile Include="05随机文件读写.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06查看文件大小.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07刷新缓冲区.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

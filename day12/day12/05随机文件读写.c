@@ -10,7 +10,7 @@ typedef struct student {
 	char name[20];
 	int num;
 }stu_t;
-int main(void)
+int main05(void)
 {
 	stu_t stu[4] = {
 	   16,"andy",113,
@@ -40,6 +40,10 @@ int main(void)
 	rewind(fp);
 	ret = fread(&s, 1, sizeof(stu_t), fp);
 	printf("\n2     age=%d,name=%s,num=%d\n", s.age, s.name, s.num);
+
+	fseek(fp, 0, SEEK_END);
+	len = ftell(fp);
+	printf("文件的大小为%d\n",len);
 
 	fclose(fp);
 	system("pause");

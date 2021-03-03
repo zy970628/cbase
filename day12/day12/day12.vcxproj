@@ -144,6 +144,8 @@
     <ClCompile Include="03fwirte.c" />
     <ClCompile Include="04大文件拷贝.c" />
     <ClCompile Include="05随机文件读写.c" />
+    <ClCompile Include="06查看文件大小.c" />
+    <ClCompile Include="07刷新缓冲区.c" />
     <ClCompile Include="test随机生成文件.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

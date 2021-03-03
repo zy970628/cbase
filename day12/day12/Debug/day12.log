@@ -1,3 +1,1 @@
-﻿  05随机文件读写.c
-E:\dev\Cbase\day12\day12\05随机文件读写.c(26,23): warning C4133: “函数”: 从“char [12]”到“FILE *”的类型不兼容
-  day12.vcxproj -> E:\dev\Cbase\day12\Debug\day12.exe
+﻿  day12.vcxproj -> E:\dev\Cbase\day12\Debug\day12.exe

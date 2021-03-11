@@ -1,0 +1,5 @@
+﻿  main.c
+E:\dev\Cbase\Snake\Snake\main.c(46,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\dev\Cbase\Snake\Snake\main.c(130,24): warning C4018: “<”: 有符号/无符号不匹配
+  snake.h
+  Snake.vcxproj -> E:\dev\Cbase\Snake\Debug\Snake.exe

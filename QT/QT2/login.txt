@@ -1,0 +1,10 @@
+ftp> open 192.168.100.100
+3333连接到 192.168.100.100。
+3333220 (vsFTPd 3.0.2)
+3333200 Always in UTF8 mode.
+3333ftp> user
+3333用户名 andy
+3333331 Please specify the password.
+3333
+3333530 Login incorrect.
+3333ftp> 3333

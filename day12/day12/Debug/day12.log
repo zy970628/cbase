@@ -1,1 +1,5 @@
-﻿  day12.vcxproj -> E:\dev\Cbase\day12\Debug\day12.exe
+﻿  ftplogin.c
+E:\dev\Cbase\day12\day12\ftplogin.c(14,29): warning C4133: “函数”: 从“char [12]”到“FILE *”的类型不兼容
+E:\dev\Cbase\day12\day12\ftplogin.c(28,29): warning C4133: “函数”: 从“char [12]”到“FILE *”的类型不兼容
+E:\dev\Cbase\day12\day12\ftplogin.c(42,33): warning C4133: “函数”: 从“char [12]”到“FILE *”的类型不兼容
+  day12.vcxproj -> E:\dev\Cbase\day12\Debug\day12.exe

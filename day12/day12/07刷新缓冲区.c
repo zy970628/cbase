@@ -6,7 +6,7 @@
 #include <time.h>
 #include <Windows.h>
 
-int main(void)
+int main07(void)
 {
 	FILE* fp = fopen("test07.txt", "w+");
 	char c;
